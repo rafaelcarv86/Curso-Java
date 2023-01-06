@@ -1,0 +1,2 @@
+module switc_case {
+}
